@@ -1,0 +1,5 @@
+en codeforces littleGirlAndMaximumSum tenemos como hallar la mayor antidad de veces que se repite dentro de un rango
+en contes4semana tenemos como minimizar tiempos de ejecucion
+en contest3semana tenemos para escribir numeros con precision indicada
+en hackerank hay principlamente strings
+en hackerrank commonChild esta como encontrar en dos string cual es la cadena que mas se repite
