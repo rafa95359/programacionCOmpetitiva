@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define para(i,a,n) for(int i=a;i<n;i++)
+#define N 1000000
+typedef long long Long ;
+int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    Long n;
+    cin>>n;
+    string t;
+    cin>>t;
+    string s;
+    Long con=0;
+    for(Long i=0;i<n;i+=con){
+        s.push_back(t[i]);        
+        con++;
+
+    }
+    cout<<s<<endl;
+    return 0;
+}

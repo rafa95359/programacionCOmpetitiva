@@ -1,0 +1,23 @@
+criba de ertostenes
+factoizacion con criba es hasta 10^7
+Exponenciacion modular
+euclides extendido e inverso modular
+teorema de fermat 
+
+
+
+TEORIA DE NUMEROS
+test de primalidad de Fermat :para saber si un numero es primo,se usa probabiliad 20 casos.
+
+RABIN MILLER
+
+algoritmo RHO
+
+cuando tienes un numero extremadamente grande lo que tnienes que hacer es guradrlo en string y luego a(ns*10+d)%m
+
+teorema chino del resto:existenci y unicidad
+
+PAGINA: cp_algorithms.com
+para + teoria y problemas 
+
+

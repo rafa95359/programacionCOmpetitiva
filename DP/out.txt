@@ -1,0 +1,789 @@
+
+next_ugly_no 2
+i2 1
+4
+next_ugly_no 3
+i3 1
+6
+next_ugly_no 4
+i2 2
+6
+next_ugly_no 5
+i5 1
+10
+next_ugly_no 6
+i2 3
+8
+i3 2
+9
+next_ugly_no 8
+i2 4
+10
+next_ugly_no 9
+i3 3
+12
+next_ugly_no 10
+i2 5
+12
+i5 2
+15
+next_ugly_no 12
+i2 6
+16
+i3 4
+15
+next_ugly_no 15
+i3 5
+18
+i5 3
+20
+next_ugly_no 16
+i2 7
+18
+next_ugly_no 18
+i2 8
+20
+i3 6
+24
+next_ugly_no 20
+i2 9
+24
+i5 4
+25
+next_ugly_no 24
+i2 10
+30
+i3 7
+27
+next_ugly_no 25
+i5 5
+30
+next_ugly_no 27
+i3 8
+30
+next_ugly_no 30
+i2 11
+32
+i3 9
+36
+i5 6
+40
+next_ugly_no 32
+i2 12
+36
+next_ugly_no 36
+i2 13
+40
+i3 10
+45
+next_ugly_no 40
+i2 14
+48
+i5 7
+45
+next_ugly_no 45
+i3 11
+48
+i5 8
+50
+next_ugly_no 48
+i2 15
+50
+i3 12
+54
+next_ugly_no 50
+i2 16
+54
+i5 9
+60
+next_ugly_no 54
+i2 17
+60
+i3 13
+60
+next_ugly_no 60
+i2 18
+64
+i3 14
+72
+i5 10
+75
+next_ugly_no 64
+i2 19
+72
+next_ugly_no 72
+i2 20
+80
+i3 15
+75
+next_ugly_no 75
+i3 16
+81
+i5 11
+80
+next_ugly_no 80
+i2 21
+90
+i5 12
+90
+next_ugly_no 81
+i3 17
+90
+next_ugly_no 90
+i2 22
+96
+i3 18
+96
+i5 13
+100
+next_ugly_no 96
+i2 23
+100
+i3 19
+108
+next_ugly_no 100
+i2 24
+108
+i5 14
+120
+next_ugly_no 108
+i2 25
+120
+i3 20
+120
+next_ugly_no 120
+i2 26
+128
+i3 21
+135
+i5 15
+125
+next_ugly_no 125
+i5 16
+135
+next_ugly_no 128
+i2 27
+144
+next_ugly_no 135
+i3 22
+144
+i5 17
+150
+next_ugly_no 144
+i2 28
+150
+i3 23
+150
+next_ugly_no 150
+i2 29
+160
+i3 24
+162
+i5 18
+160
+next_ugly_no 160
+i2 30
+162
+i5 19
+180
+next_ugly_no 162
+i2 31
+180
+i3 25
+180
+next_ugly_no 180
+i2 32
+192
+i3 26
+192
+i5 20
+200
+next_ugly_no 192
+i2 33
+200
+i3 27
+216
+next_ugly_no 200
+i2 34
+216
+i5 21
+225
+next_ugly_no 216
+i2 35
+240
+i3 28
+225
+next_ugly_no 225
+i3 29
+240
+i5 22
+240
+next_ugly_no 240
+i2 36
+250
+i3 30
+243
+i5 23
+250
+next_ugly_no 243
+i3 31
+270
+next_ugly_no 250
+i2 37
+256
+i5 24
+270
+next_ugly_no 256
+i2 38
+270
+next_ugly_no 270
+i2 39
+288
+i3 32
+288
+i5 25
+300
+next_ugly_no 288
+i2 40
+300
+i3 33
+300
+next_ugly_no 300
+i2 41
+320
+i3 34
+324
+i5 26
+320
+next_ugly_no 320
+i2 42
+324
+i5 27
+360
+next_ugly_no 324
+i2 43
+360
+i3 35
+360
+next_ugly_no 360
+i2 44
+384
+i3 36
+375
+i5 28
+375
+next_ugly_no 375
+i3 37
+384
+i5 29
+400
+next_ugly_no 384
+i2 45
+400
+i3 38
+405
+next_ugly_no 400
+i2 46
+432
+i5 30
+405
+next_ugly_no 405
+i3 39
+432
+i5 31
+450
+next_ugly_no 432
+i2 47
+450
+i3 40
+450
+next_ugly_no 450
+i2 48
+480
+i3 41
+480
+i5 32
+480
+next_ugly_no 480
+i2 49
+486
+i3 42
+486
+i5 33
+500
+next_ugly_no 486
+i2 50
+500
+i3 43
+540
+next_ugly_no 500
+i2 51
+512
+i5 34
+540
+next_ugly_no 512
+i2 52
+540
+next_ugly_no 540
+i2 53
+576
+i3 44
+576
+i5 35
+600
+next_ugly_no 576
+i2 54
+600
+i3 45
+600
+next_ugly_no 600
+i2 55
+640
+i3 46
+648
+i5 36
+625
+next_ugly_no 625
+i5 37
+640
+next_ugly_no 640
+i2 56
+648
+i5 38
+675
+next_ugly_no 648
+i2 57
+720
+i3 47
+675
+next_ugly_no 675
+i3 48
+720
+i5 39
+720
+next_ugly_no 720
+i2 58
+750
+i3 49
+729
+i5 40
+750
+next_ugly_no 729
+i3 50
+750
+next_ugly_no 750
+i2 59
+768
+i3 51
+768
+i5 41
+800
+next_ugly_no 768
+i2 60
+800
+i3 52
+810
+next_ugly_no 800
+i2 61
+810
+i5 42
+810
+next_ugly_no 810
+i2 62
+864
+i3 53
+864
+i5 43
+900
+next_ugly_no 864
+i2 63
+900
+i3 54
+900
+next_ugly_no 900
+i2 64
+960
+i3 55
+960
+i5 44
+960
+next_ugly_no 960
+i2 65
+972
+i3 56
+972
+i5 45
+1000
+next_ugly_no 972
+i2 66
+1000
+i3 57
+1080
+next_ugly_no 1000
+i2 67
+1024
+i5 46
+1080
+next_ugly_no 1024
+i2 68
+1080
+next_ugly_no 1080
+i2 69
+1152
+i3 58
+1125
+i5 47
+1125
+next_ugly_no 1125
+i3 59
+1152
+i5 48
+1200
+next_ugly_no 1152
+i2 70
+1200
+i3 60
+1200
+next_ugly_no 1200
+i2 71
+1250
+i3 61
+1215
+i5 49
+1215
+next_ugly_no 1215
+i3 62
+1296
+i5 50
+1250
+next_ugly_no 1250
+i2 72
+1280
+i5 51
+1280
+next_ugly_no 1280
+i2 73
+1296
+i5 52
+1350
+next_ugly_no 1296
+i2 74
+1350
+i3 63
+1350
+next_ugly_no 1350
+i2 75
+1440
+i3 64
+1440
+i5 53
+1440
+next_ugly_no 1440
+i2 76
+1458
+i3 65
+1458
+i5 54
+1500
+next_ugly_no 1458
+i2 77
+1500
+i3 66
+1500
+next_ugly_no 1500
+i2 78
+1536
+i3 67
+1536
+i5 55
+1600
+next_ugly_no 1536
+i2 79
+1600
+i3 68
+1620
+next_ugly_no 1600
+i2 80
+1620
+i5 56
+1620
+next_ugly_no 1620
+i2 81
+1728
+i3 69
+1728
+i5 57
+1800
+next_ugly_no 1728
+i2 82
+1800
+i3 70
+1800
+next_ugly_no 1800
+i2 83
+1920
+i3 71
+1875
+i5 58
+1875
+next_ugly_no 1875
+i3 72
+1920
+i5 59
+1920
+next_ugly_no 1920
+i2 84
+1944
+i3 73
+1944
+i5 60
+2000
+next_ugly_no 1944
+i2 85
+2000
+i3 74
+2025
+next_ugly_no 2000
+i2 86
+2048
+i5 61
+2025
+next_ugly_no 2025
+i3 75
+2160
+i5 62
+2160
+next_ugly_no 2048
+i2 87
+2160
+next_ugly_no 2160
+i2 88
+2250
+i3 76
+2187
+i5 63
+2250
+next_ugly_no 2187
+i3 77
+2250
+next_ugly_no 2250
+i2 89
+2304
+i3 78
+2304
+i5 64
+2400
+next_ugly_no 2304
+i2 90
+2400
+i3 79
+2400
+next_ugly_no 2400
+i2 91
+2430
+i3 80
+2430
+i5 65
+2430
+next_ugly_no 2430
+i2 92
+2500
+i3 81
+2592
+i5 66
+2500
+next_ugly_no 2500
+i2 93
+2560
+i5 67
+2560
+next_ugly_no 2560
+i2 94
+2592
+i5 68
+2700
+next_ugly_no 2592
+i2 95
+2700
+i3 82
+2700
+next_ugly_no 2700
+i2 96
+2880
+i3 83
+2880
+i5 69
+2880
+next_ugly_no 2880
+i2 97
+2916
+i3 84
+2916
+i5 70
+3000
+next_ugly_no 2916
+i2 98
+3000
+i3 85
+3000
+next_ugly_no 3000
+i2 99
+3072
+i3 86
+3072
+i5 71
+3125
+next_ugly_no 3072
+i2 100
+3200
+i3 87
+3240
+next_ugly_no 3125
+i5 72
+3200
+next_ugly_no 3200
+i2 101
+3240
+i5 73
+3240
+next_ugly_no 3240
+i2 102
+3456
+i3 88
+3375
+i5 74
+3375
+next_ugly_no 3375
+i3 89
+3456
+i5 75
+3600
+next_ugly_no 3456
+i2 103
+3600
+i3 90
+3600
+next_ugly_no 3600
+i2 104
+3750
+i3 91
+3645
+i5 76
+3645
+next_ugly_no 3645
+i3 92
+3750
+i5 77
+3750
+next_ugly_no 3750
+i2 105
+3840
+i3 93
+3840
+i5 78
+3840
+next_ugly_no 3840
+i2 106
+3888
+i3 94
+3888
+i5 79
+4000
+next_ugly_no 3888
+i2 107
+4000
+i3 95
+4050
+next_ugly_no 4000
+i2 108
+4050
+i5 80
+4050
+next_ugly_no 4050
+i2 109
+4096
+i3 96
+4320
+i5 81
+4320
+next_ugly_no 4096
+i2 110
+4320
+next_ugly_no 4320
+i2 111
+4374
+i3 97
+4374
+i5 82
+4500
+next_ugly_no 4374
+i2 112
+4500
+i3 98
+4500
+next_ugly_no 4500
+i2 113
+4608
+i3 99
+4608
+i5 83
+4800
+next_ugly_no 4608
+i2 114
+4800
+i3 100
+4800
+next_ugly_no 4800
+i2 115
+4860
+i3 101
+4860
+i5 84
+4860
+next_ugly_no 4860
+i2 116
+5000
+i3 102
+5184
+i5 85
+5000
+next_ugly_no 5000
+i2 117
+5120
+i5 86
+5120
+next_ugly_no 5120
+i2 118
+5184
+i5 87
+5400
+next_ugly_no 5184
+i2 119
+5400
+i3 103
+5400
+next_ugly_no 5400
+i2 120
+5760
+i3 104
+5625
+i5 88
+5625
+next_ugly_no 5625
+i3 105
+5760
+i5 89
+5760
+next_ugly_no 5760
+i2 121
+5832
+i3 106
+5832
+i5 90
+6000
+next_ugly_no 5832
+i2 122
+6000
+i3 107
+6000
+5832

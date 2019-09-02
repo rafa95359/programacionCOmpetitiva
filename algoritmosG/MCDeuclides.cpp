@@ -8,6 +8,7 @@ int gcd (int a, int b) {
         return gcd (b, a % b);
 }
 
+
 int gcd2 (int a, int b) {
     return b ? gcd2 (b, a % b) : a;
 }
